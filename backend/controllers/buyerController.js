@@ -121,6 +121,10 @@ const updateBuyerProfile = async (req, res) => {
   }
 };
 
+
+
+/**     */
+
 module.exports = {
   registerBuyer,
   loginBuyer,
